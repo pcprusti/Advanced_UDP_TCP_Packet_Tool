@@ -5,6 +5,8 @@ The Advanced UDP/TCP Packet Tool is a versatile desktop application for sending 
 
 This tool supports hex mode, auto-repeat sending, real-time statistics, packet templates, saved profiles, and detailed logging. It also includes editable fields for source and destination IPs and ports, making it ideal for simulating traffic and testing routing scenarios.
 
+![image](https://github.com/pcprusti/Advanced_UDP_TCP_Packet_Tool/blob/main/Advanced_UDP_TCP_Packet_Tool.PNG)
+
 ---
 
 ## 🧭 Interface Breakdown
